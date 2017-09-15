@@ -1,1 +1,1 @@
-# BmobRealTimeDemo
+Bmob的数据实时更新功能！
